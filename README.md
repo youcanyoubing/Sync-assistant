@@ -1,3 +1,5 @@
+#此软件完全由deepseek完成，本人只做发布，原本只想方便手机上复制的文字发送到电脑上使用，又不想在电脑上安装微信之类的软件，遂用deepseek实现，之后又加了传输文件和预览功能，传输的文件在uploads目录里（传输后自动生成）
+
 # Clipboard Sync 🚀
 
 跨设备剪贴板同步工具，支持文字、文件和媒体实时预览。
@@ -17,11 +19,11 @@
    ```bash
    python clipboard_sync.py
    ```
-3. 访问 `http://[你的IP]:5000`
+3. 访问 `http://[你的IP]:5000`，参考运行py后命令行出现的地址
 
 ## 截图
-![手机端界面](screenshot_mobile.png)
-![PC端界面](screenshot_pc.png)
+![手机端界面](Screenshot.jpg)
+![PC端界面](屏幕截图.png)
 
 ## 开源协议
 MIT License

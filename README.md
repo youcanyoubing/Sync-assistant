@@ -16,7 +16,7 @@
    ```
 2. 运行服务：
    ```bash
-   python clipboard_sync.py
+   python 文件同步助手.py
    ```
 3. 访问 `http://[你的IP]:5000`，参考运行py后命令行出现的地址
 

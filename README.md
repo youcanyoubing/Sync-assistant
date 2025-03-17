@@ -12,7 +12,7 @@
 ## 快速开始
 1. 安装依赖：
    ```bash
-   pip install -r requirements.txt
+   pip install flask flask-socketio pyperclip
    ```
 2. 运行服务：
    ```bash
